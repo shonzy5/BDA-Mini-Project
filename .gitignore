@@ -1,0 +1,24 @@
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Local data files
+data/raw/
+data/processed/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated temporary files
+*.log
